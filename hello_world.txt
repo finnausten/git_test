@@ -1,0 +1,2 @@
+This is some sample text I'm typing into this file to test
+out Git & Github's capabilties
